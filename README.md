@@ -1,1 +1,1 @@
-Vagrant optional priject
+Vagrant optional project
